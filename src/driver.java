@@ -8,6 +8,6 @@ public class driver extends person{
     }
 
     public void introduceDriver(){
-        System.out.println("Hi!!, I am "+ getName() + "and I can drive " + licenseType);
+        System.out.println("Hi!!, I am "+ getName() + " and I can drive " + licenseType);
     }
 }

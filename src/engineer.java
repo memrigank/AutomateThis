@@ -7,6 +7,6 @@ public class engineer extends person{
     }
 
     public void introduceEngineer(){
-        System.out.println("Hi!!, I am "+ getName() + "and I am specialized in " + specialization);
+        System.out.println("Hi!!, I am "+ getName() + " and I am specialized in " + specialization);
     }
 }

@@ -7,6 +7,6 @@ public class doctor extends person {
      }
 
      public void introduceDoctor(){
-         System.out.println("Hi!!, I am "+ getName() + "and I am specialized in " + specialization);
+         System.out.println("Hi!!, I am "+ getName() + " and I am specialized in " + specialization);
      }
 }

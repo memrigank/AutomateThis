@@ -7,7 +7,7 @@ public class student extends person{
         this.graduatedIn = graduatedIn;
     }
      public void introduceStudent(){
-        System.out.println("Hi!!, I am "+ getName() + "and I am graduated in " + graduatedIn);
+        System.out.println("Hi!!, I am "+ getName() + " and I am graduated in " + graduatedIn);
      }
 
      public void updateMyName(String updatedName){
